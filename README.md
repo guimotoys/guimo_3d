@@ -7,7 +7,7 @@ O [Guimo&trade;] é um smart toy modular, assim temos várias peças que podem f
 [![N|Solid](http://i.imgur.com/hCm5tRC.png)](https://guimo.toys) 
 
 ## License
-Creative Commons - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+**Creative Commons - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
 
 ### You are free to:
 
